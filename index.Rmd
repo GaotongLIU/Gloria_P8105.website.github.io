@@ -11,6 +11,8 @@ editor_options:
 
 # This is Jeff's awesome website
 
+You can learn about me [here](file:///Users/gloria/Documents/CUMC/P8105%20Data%20Science/Gloria_P8105.website.github.io/about.html)
+
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 
 # Let's add some links
