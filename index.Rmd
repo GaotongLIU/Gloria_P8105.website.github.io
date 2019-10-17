@@ -12,9 +12,10 @@ editor_options:
 # This is Jeff's awesome website
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
 # Let's add some links
 
-I often use[google](google.com) to do data science.
+I often use [google](google.com) to do data science.
 
 # Let's add some pictures
- <img src="images/image.jpg" style="width:75%">
+ <img src="2.png" style="width:75%">
