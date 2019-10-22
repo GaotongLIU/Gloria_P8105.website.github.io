@@ -17,4 +17,4 @@ You can learn about me [here](file:///Users/gloria/Documents/CUMC/P8105%20Data%2
 I often use [google](https://www.google.com) to do data science.
 
 # Let's add some pictures
- <img src="2.png" style="width:75%">
+ <img src="images/2.png" style="width:75%">
